@@ -1,0 +1,21 @@
+.listing{
+  /* margin-left: 55rem; */
+    /* margin-top: 3rem; */
+    border: solid black 1px;
+    padding: 10px;
+    border-radius: 10px;
+}
+.lists{
+   margin-right: 1rem;
+    margin-top: 2rem;
+    border: solid rgb(196, 191, 191) 1px;
+    padding: 10px;
+    border-radius: 20px;
+}
+.selectedLists{
+    margin-right: 1rem;
+     margin-top: 2rem;
+     border: solid rgb(0, 0, 0) 1px;
+     padding: 10px;
+     border-radius: 20px;
+ }
